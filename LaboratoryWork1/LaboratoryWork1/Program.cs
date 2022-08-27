@@ -5,8 +5,7 @@ namespace LaboratoryWork1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bye");
-            Console.WriteLine("Bye");
+            Console.WriteLine("-------------------");
         }
     }
 }
