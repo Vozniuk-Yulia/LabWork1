@@ -1,0 +1,15 @@
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\bin\Debug\net6.0\LaboratoryWork1.exe
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\bin\Debug\net6.0\LaboratoryWork1.deps.json
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\bin\Debug\net6.0\LaboratoryWork1.runtimeconfig.json
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\bin\Debug\net6.0\LaboratoryWork1.dll
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\bin\Debug\net6.0\ref\LaboratoryWork1.dll
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\bin\Debug\net6.0\LaboratoryWork1.pdb
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\obj\Debug\net6.0\LaboratoryWork1.csproj.AssemblyReference.cache
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\obj\Debug\net6.0\LaboratoryWork1.GeneratedMSBuildEditorConfig.editorconfig
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\obj\Debug\net6.0\LaboratoryWork1.AssemblyInfoInputs.cache
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\obj\Debug\net6.0\LaboratoryWork1.AssemblyInfo.cs
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\obj\Debug\net6.0\LaboratoryWork1.csproj.CoreCompileInputs.cache
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\obj\Debug\net6.0\LaboratoryWork1.dll
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\obj\Debug\net6.0\ref\LaboratoryWork1.dll
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\obj\Debug\net6.0\LaboratoryWork1.pdb
+E:\knute\oop\laboratory1\LaboratoryWork1\LaboratoryWork1\obj\Debug\net6.0\LaboratoryWork1.genruntimeconfig.cache
